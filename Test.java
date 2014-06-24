@@ -18,6 +18,8 @@ public class Test {
     public static void main(String[] args) {
         // TODO code application logic here
         JOptionPane.showMessageDialog(null,"oi eu sou um programa");
+        JOptionPane.showConfirmDialog(null,"Estou testando o git será que funfou?");
+        
     }
     
 }
